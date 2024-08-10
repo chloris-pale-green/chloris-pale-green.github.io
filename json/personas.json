@@ -1,0 +1,58 @@
+[
+    {
+        "code": "adlr",
+        "model": "ADLR",
+        "name": "Adler",
+        "long-name": "Administration, Data Processing, Logistics Replika",
+        "portrait-url": "/img/portraits/ADLR.png"
+    },
+    {
+        "code": "arar",
+        "model": "ARAR",
+        "name": "Ara",
+        "long-name": "All-Purpose Repair Worker Replika",
+        "portrait-url": "/img/portraits/ARAR.png"
+    },
+    {
+        "code": "eulr",
+        "model": "EULR",
+        "name": "Eule",
+        "long-name": "Simple Universal Light Replika",
+        "portrait-url": "/img/portraits/EULR.png"
+    },
+    {
+        "code": "klbr",
+        "model": "KLBR",
+        "name": "Kolibri",
+        "long-name": "Commando Control Unit Bioresonance Technology Replika",
+        "portrait-url": "/img/portraits/KLBR.png"
+    },
+    {
+        "code": "lstr",
+        "model": "LSTR",
+        "name": "Elster",
+        "long-name": "Land Survey/Ship Technician Replika",
+        "portrait-url": "/img/portraits/LSTR.png"
+    },
+    {
+        "code": "mnhr",
+        "model": "MNHR",
+        "name": "Mynah",
+        "long-name": "Mining, Nuclear Tech, High-Security Replika",
+        "portrait-url": "/img/portraits/MNHR.png"
+    },
+    {
+        "code": "star",
+        "model": "STAR",
+        "name": "Star",
+        "long-name": "Security Technician Guard Replika",
+        "portrait-url": "/img/portraits/STAR.png"
+    },
+    {
+        "code": "stcr",
+        "model": "STCR",
+        "name": "Storch",
+        "long-name": "Security Technician Controller Replika",
+        "portrait-url": "/img/portraits/STCR.png"
+    }
+]

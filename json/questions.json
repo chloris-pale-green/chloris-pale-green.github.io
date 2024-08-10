@@ -1,0 +1,142 @@
+[
+    {
+        "question": "Whom do you admire the most?",
+        "answers": [
+            {
+                "text": "STARs",
+                "persona": "eulr"
+            },
+            {
+                "text": "EULRs",
+                "persona": "star"
+            },
+            {
+                "text": "STCRs",
+                "persona": "klbr"
+            },
+            {
+                "text": "No one",
+                "persona": "arar"
+            },
+            {
+                "text": "Gestalts",
+                "persona": "lstr"
+            },
+            {
+                "text": "Our FKLR commander",
+                "persona": "adlr"
+            }
+        ]
+    },
+    {
+        "question": "What is your favourite way of releasing stress?",
+        "answers": [
+            {
+                "text": "Listening to music or dancing",
+                "persona": "eulr"
+            },
+            {
+                "text": "Talking to others",
+                "persona": "eulr"
+            },
+            {
+                "text": "Hiding in air ducts",
+                "persona": "arar"
+            },
+            {
+                "text": "Being alone",
+                "persona": "lstr"
+            },
+            {
+                "text": "Journaling",
+                "persona": "adlr"
+            },
+            {
+                "text": "Shooting firearms",
+                "persona": "stcr"
+            },
+            {
+                "text": "Exploring the library",
+                "persona": "klbr"
+            },
+            {
+                "text": "Petting plushies",
+                "persona": "mnhr"
+            }
+        ]
+    },
+    {
+        "question": "What are you particularly good at?",
+        "answers": [
+            {
+                "text": "Domestic tasks",
+                "persona": "eulr"
+            },
+            {
+                "text": "Engineering and maintenance",
+                "persona": "arar"
+            },
+            {
+                "text": "Handling heavy mining equipment",
+                "persona": "mnhr"
+            },
+            {
+                "text": "Surviving at all costs",
+                "persona": "lstr"
+            },
+            {
+                "text": "Being a dick",
+                "persona": "adlr"
+            },
+            {
+                "text": "Bossing people around",
+                "persona": "stcr"
+            },
+            {
+                "text": "Being cool under pressure",
+                "persona": "mnhr"
+            },
+            {
+                "text": "Mind control",
+                "persona": "klbr"
+            }
+        ]
+    },
+    {
+        "question": "What is your favourite way of dealing with enemies?",
+        "answers": [
+            {
+                "text": "Diplomacy",
+                "persona": "eulr"
+            },
+            {
+                "text": "Ambushing them from otherwise inaccessible areas",
+                "persona": "arar"
+            },
+            {
+                "text": "Make them die from inside",
+                "persona": "klbr"
+            },
+            {
+                "text": "Surviving at all costs",
+                "persona": "lstr"
+            },
+            {
+                "text": "Kicking them down elevator shafts",
+                "persona": "adlr"
+            },
+            {
+                "text": "Smashing their heads in",
+                "persona": "stcr"
+            },
+            {
+                "text": "Clean shot to the brain",
+                "persona": "star"
+            },
+            {
+                "text": "Stare into them until they give up",
+                "persona": "mnhr"
+            }
+        ]
+    }
+]

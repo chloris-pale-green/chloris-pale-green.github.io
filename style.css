@@ -1,0 +1,122 @@
+/*
+ * Root variables
+ */
+
+:root {
+    /* Colours */
+    --clr-black: #000000;
+    --clr-white: #f1f1f3;
+    --clr-red: #cd2602;
+    --clr-grey: #3e3a37;
+
+    /* Dimensions */
+    --max-width: 800px;
+}
+
+/*
+ * Font faces
+ */
+
+@font-face {
+    font-family: 'futura';
+    src: url('/fonts/futura/Futura Book.ttf');
+}
+
+@font-face {
+    font-family: 'mittelschrift';
+    src: url('/fonts/mittelschrift/din1451alt.ttf');
+}
+
+@font-face {
+    font-family: 'monommm';
+    src: url('/fonts/monommm/monoMMM_5.ttf');
+}
+
+@font-face {
+    font-family: 'munro';
+    src: url('/fonts/munro/Munro-2LYe.ttf');
+}
+
+/*
+ * Base typography
+ */
+
+html {
+    font-family: 'futura';
+    font-size: 18px;
+}
+
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.1rem; }
+
+/*
+ * Layout
+ */
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: var(--clr-black);
+    color: var(--clr-white);
+}
+
+noscript {
+    font-size: 2rem;
+    color: var(--clr-red);
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: calc(100vh);
+    width: calc(100vw);
+}
+
+header {
+    padding: 0.5em 0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+header img {
+    height: 4.5em;
+    object-fit: contain;
+    margin-right: 1em;
+}
+
+#stack {
+    display: block;
+    position: relative;
+    width: 100%;
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+#stack > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#background {
+    z-index: 1;
+    background-color: red;
+}
+#curtain {
+    z-index: 2;
+    background-color: purple;
+}
+#foreground {
+    z-index: 3;
+    background-color: blue;
+}
+
+audio {
+    display: none;
+}
